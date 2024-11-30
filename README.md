@@ -44,3 +44,4 @@ Padrão criacional
 
 * Nesta aula é apresentado o singleton, que garante que apenas um objeto do seu tipo exista, permitindo apenas uma única instância.
   
+*************
